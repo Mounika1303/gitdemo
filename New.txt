@@ -1,8 +1,8 @@
-<<<<<<< HEAD
+
 Hello
 World
-=======
+
 Hello 
 world 
 changes from github
->>>>>>> e77e4f587b35dba9d80f3bf026f483fc599c9fe7
+
